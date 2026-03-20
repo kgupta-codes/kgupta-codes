@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Kunal 👋
 
-<!--
-**kgupta-codes/kgupta-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | 💻 Aspiring Software Developer
+🚀 Passionate about coding, problem solving & building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* C++
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms (DSA)
+* Git & GitHub
+
+---
+
+## 🛠 Tech Stack
+
+💻 Languages:
+
+* C++
+
+⚙️ Concepts:
+
+* OOP
+* File Handling
+* Problem Solving
+
+🛠 Tools:
+
+* Git
+* GitHub
+
+---
+
+## 📌 Projects
+
+🔹 **Student Management System (C++)**
+
+* Built using OOP & File Handling
+* Manages student records efficiently
+* Console-based application
+
+👉 *(More projects coming soon...)*
+
+---
+
+## 📈 Goals for 2026
+
+* Solve 300+ DSA problems
+* Build 5+ real-world projects
+* Contribute regularly on GitHub
+* Learn Web Development
+
+---
+
+## 📊 GitHub Activity
+
+*(Working on being consistent and improving daily)*
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [kunalgupta.codes@gmail.com](mailto:kunalgupta.codes@gmail.com)
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t work hard.”*
